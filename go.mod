@@ -1,4 +1,4 @@
-module github.com/mdavistffhrtporg/fhrp-pubtheme
+module github.com/TFFHRTP/fhrp-pubtheme
 
 go 1.22.8
 
