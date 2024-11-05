@@ -1,5 +1,5 @@
-module gitlab.com/mdavis2810614/fhrp-pubtheme
+module gitlab.com/fhrp/fhrp-pubtheme
 
-go 1.22.8
+go 1.23.2
 
 require github.com/twbs/bootstrap v5.3.3+incompatible // indirect
