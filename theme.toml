@@ -1,8 +1,8 @@
 name = "Docsy"
 license = "Apache 2.0"
-licenselink = "https://gitlab.com/mdavis2810614/fhrp-pubtheme/-/blob/main/LICENSE"
+licenselink = "https://github.com/TFFHRTP/fhrp-pubtheme/blob/main/LICENSE"
 description = "A Hugo theme for technical documentation sites"
-homepage = "https://gitlab.com/mdavis2810614/fhrp-pubtheme"
+homepage = "https://github.com/tffhrtp/fhrp-pubtheme"
 demosite = "https://fhrp.org/"
 tags = ["documentation", "multilingual", "customizable", "responsive", "docs"]
 features = []
